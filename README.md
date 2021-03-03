@@ -1,6 +1,4 @@
-# Video games EDA and Regression Models
-R2 score comparison among different regression models.
-
+# Video games EDA & Regression Models & R2 Score Comparison Among Different Regression Models
 
 Dataset Overview (https://www.kaggle.com/gregorut/videogamesales)
 
