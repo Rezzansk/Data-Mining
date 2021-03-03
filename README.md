@@ -1,2 +1,3 @@
-# Data-Mining
-Video games EDA and Regression Models
+# Video games EDA and Regression Models
+R2 score comparison among different regression models.
+
